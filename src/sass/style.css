@@ -158,11 +158,11 @@ ul {
 }
 
 .loading-card {
-  margin: 10px;
+  /* margin: 10px; */
   -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
-  background-color: #e2dadb;
-  padding: 1rem;
+  background-color: #a2a7a5;
+  padding: 20px;
   transition: 0.2s ease-in-out;
   -webkit-transition: 0.2s ease-in-out;
 }
