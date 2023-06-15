@@ -8,7 +8,7 @@ const Header = () => {
       <div>
         <a
           className="github-icon"
-          href="https://github.com/jatiinyadav/Books-App-using-ReactJs"
+          href="https://github.com/kalburgimanjunath/Books-Library-Demo"
           target="_blank"
           rel="noreferrer"
         >
@@ -37,7 +37,7 @@ const Header = () => {
               color: "#333",
               textAlign: "center",
               // fontWeight: "bold", //No need of bold because headings are itself bold
-              fontFamily: "Scheherazade New",
+              fontFamily: "Noto",
               textShadow: "2px 2px 3px #b0b0b0",
             }}
           >

@@ -9,7 +9,7 @@ import LoadingCard from "./loadingCard";
 const BookDetails = () => {
   const [details, setDetails] = useState([]);
 
-  const [term, setTerm] = useState("Ruskin Bond");
+  const [term, setTerm] = useState("React reactjs redux nextjs javascript es6");
 
   const [isLoading, setIsLoading] = useState(true);
 
